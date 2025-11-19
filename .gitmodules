@@ -1,0 +1,6 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = git@github.com:hayatoshibahara/.devcontainer
+[submodule "nanochat"]
+	path = nanochat
+	url = git@github.com:karpathy/nanochat
